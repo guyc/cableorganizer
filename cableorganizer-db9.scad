@@ -1,10 +1,5 @@
 // Parametric USB Cable Organizer - GuyC
 
-// note that with default replicatorG 1-extra-shell, 10% infill
-// options the fingers formed by these rings will get a shell
-// but no infill, so you can see through them.  I'm happy with
-// that, but you may not be.
-
 // Dimensions for the ring
 
 ringInnerRadius = 6.5;     // radius of hole
