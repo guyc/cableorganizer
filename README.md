@@ -19,3 +19,5 @@ holes are provided to accommodate DB-9 thumb screws.
 STL files can be found on [Thingiverse](http://www.thingiverse.com/thing:26037).
 
 ![DB9 Cable Organizer](/guyc/cableorganizer/raw/master/cableorganizer-db9.png "DB9 Cable Organizer")
+
+![DB9 Cable Organizer](/guyc/cableorganizer/raw/master/cableorganizer-db9.jpg "DB9 Cable Organizer")
